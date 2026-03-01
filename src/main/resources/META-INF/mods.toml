@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="nocurtitem"
+version="1.0.0"
+displayName="No Curt Item"
+description="Prevents picking up items you add to the block list. Press Right Ctrl to open the menu."
+authors="NoCurtItem"
+
+[[dependencies.nocurtitem]]
+modId="forge"
+mandatory=true
+versionRange="[36.2.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.nocurtitem]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.16.5,1.17)"
+ordering="NONE"
+side="BOTH"

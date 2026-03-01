@@ -1,0 +1,9 @@
+{
+  "key.nocurtitem.category": "No Curt Item",
+  "key.nocurtitem.open_menu": "Открыть меню заблокированных предметов",
+  "gui.nocurtitem.title": "Заблокированные предметы",
+  "gui.nocurtitem.search": "Поиск",
+  "gui.nocurtitem.search_hint": "напр. minecraft:diamond",
+  "gui.nocurtitem.add": "Добавить",
+  "gui.nocurtitem.remove": "Удалить"
+}

@@ -1,0 +1,9 @@
+{
+  "key.nocurtitem.category": "No Curt Item",
+  "key.nocurtitem.open_menu": "Open Blocked Items Menu",
+  "gui.nocurtitem.title": "Blocked pickups",
+  "gui.nocurtitem.search": "Search",
+  "gui.nocurtitem.search_hint": "e.g. minecraft:diamond",
+  "gui.nocurtitem.add": "Add",
+  "gui.nocurtitem.remove": "Remove"
+}
